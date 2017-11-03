@@ -11,12 +11,118 @@ layout: page
 
 <style>
     #map {
-        width: 800px;
+        width: 100%;
         height: 600px;
     }
 </style>
 
-<div id='map'></div>
+<h1>Areas with members on the Strategy and Resources Committee</h1>
+
+<p><div id='map'></div></p>
+
+<table style="font-size:0.8em">
+    <thead>
+        <th>Name</th>
+        <th>Party</th>
+        <th>Ward</th>
+        <th>Email</th>
+        <th>Position</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Nigel Cooper</td>
+            <td>Conservative</td>
+            <td>Painswick & Upton</td>
+            <td><a href="mailto:cllr.nigel.cooper@stroud.gov.uk">cllr.nigel.cooper@stroud.gov.uk</a></td>
+            <td>Unknown</td>
+        </tr>
+        <tr>
+            <td>Doina Cornell</td>
+            <td>Labour</td>
+            <td>Dursley</td>
+            <td><a href="mailto:cllr.doina.cornell@stroud.gov.uk">cllr.doina.cornell@stroud.gov.uk</a></td>
+            <td>Unknown</td>
+        </tr>
+        <tr>
+            <td>Stephen Davies</td>
+            <td>Conservative</td>
+            <td>Severn</td>
+            <td><a href="mailto:cllr.stephen.davies@stroud.gov.uk">cllr.stephen.davies@stroud.gov.uk</a></td>
+            <td>Unknown</td>
+        </tr>
+        <tr>
+            <td>Nicholas Hurst</td>
+            <td>Conservative</td>
+            <td>Minchinhampton</td>
+            <td><a href="mailto:cllr.nick.hurst@stroud.gov.uk">cllr.nick.hurst@stroud.gov.uk</a></td>
+            <td>Unknown</td>
+        </tr>
+        <tr>
+            <td>Stephen Lydon</td>
+            <td>Labour</td>
+            <td>The Stanleys</td>
+            <td><a href="mailto:cllr.stephen.lydon@stroud.gov.uk">cllr.stephen.lydon@stroud.gov.uk</a></td>
+            <td>Unknown</td>
+        </tr>
+        <tr>
+            <td>Keith Pearson</td>
+            <td>Conservative</td>
+            <td>Painswick & Upton</td>
+            <td><a href="mailto:cllr.keith.pearson@stroud.gov.uk">cllr.keith.pearson@stroud.gov.uk</a></td>
+            <td>Unknown</td>
+        </tr>
+        <tr>
+            <td>Simon Pickering</td>
+            <td>Green</td>
+            <td>Stroud Slade</td>
+            <td><a href="mailto:cllr.simon.pickering@stroud.gov.uk">cllr.simon.pickering@stroud.gov.uk</a></td>
+            <td>Unknown</td>
+        </tr>
+        <tr>
+            <td>Steve Robinson</td>
+            <td>Labour</td>
+            <td>Nailsworth</td>
+            <td><a href="mailto:cllr.steve.robinson@stroud.gov.uk">cllr.steve.robinson@stroud.gov.uk</a></td>
+            <td>Unknown</td>
+        </tr>
+        <tr>
+            <td>Mattie Ross</td>
+            <td>Labour and Co-operative</td>
+            <td>Stonehouse</td>
+            <td><a href="mailto:cllr.mattie.ross@stroud.gov.uk">cllr.mattie.ross@stroud.gov.uk</a></td>
+            <td>Unknown</td>
+        </tr>
+        <tr>
+            <td>Tom Skinner</td>
+            <td>Conservative</td>
+            <td>Hardwicke</td>
+            <td><a href="mailto:cllr.tom.skinner@stroud.gov.uk">cllr.tom.skinner@stroud.gov.uk</a></td>
+            <td>Unknown</td>
+        </tr>
+        <tr>
+            <td>Ken Tucker</td>
+            <td>Liberal Democrats</td>
+            <td>Wotton under Edge</td>
+            <td><a href="mailto:cllr.ken.tucker@stroud.gov.uk">cllr.ken.tucker@stroud.gov.uk</a></td>
+            <td>Unknown</td>
+        </tr>
+        <tr>
+            <td>Martin Whiteside</td>
+            <td>Green</td>
+            <td>Thrupp</td>
+            <td><a href="mailto:cllr.martin.whiteside@stroud.gov.uk">cllr.martin.whiteside@stroud.gov.uk</a></td>
+            <td>Unknown</td>
+        </tr>
+        <tr>
+            <td>Deborah Jane Young</td>
+            <td>Conservative</td>
+            <td>Chalford</td>
+            <td><a href="mailto:cllr.debbie.young@stroud.gov.uk">cllr.debbie.young@stroud.gov.uk</a></td>
+            <td>Unknown</td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 <script>
